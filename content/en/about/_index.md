@@ -1,6 +1,6 @@
 ---
 description: 'Hello! My name is Leon Hounnou. I am a PhD candidate in the department of Informatics at the University of 
-Illinois.'
+Illinois Urbana-Champaign.'
 featured_image: /images/about.jpg
 title: About me
 ---
