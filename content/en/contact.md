@@ -1,18 +1,18 @@
 ---
-description: We'd love to hear from you
-featured_image: images/notebook.jpg
-menu: main
-omit_header_text: true
 title: Contact
+featured_image: ''
+omit_header_text: true
+description: We'd love to hear from you
 type: page
+menu: main
+
 ---
 
 
-I will be happy to hear from you.
 
 
-[LinkedIn](https://linkedin.com/in/hounnouleon)
+{{< form-contact action="https://formspree.io/f/mqkopwoq" method="POST"  >}}
 
-[GitHub](https://github.com/Hounnou?tab=repositories)
 
-[Google scholar](https://scholar.google.com/citations?hl=en&user=o4zIiYEAAAAJ)
+
+
