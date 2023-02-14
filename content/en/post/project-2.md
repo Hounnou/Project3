@@ -1,8 +1,8 @@
 ---
-date: "2021-07-27T10:58:08-04:00"
+date: "2022-07-27T10:58:08-04:00"
 description: Kernel models applied to ozone data
 featured_image: /images/project_1.jpg
-tags:
+
 
 title: 'Project 2: Kernel Regression Models'
 ---
