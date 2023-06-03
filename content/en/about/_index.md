@@ -1,6 +1,5 @@
 ---
-description: 'Hello! My name is Leon Hounnou. I am a PhD candidate in the department of Informatics at the University of 
-Illinois Urbana-Champaign.'
+description: 'Hello! My name is Leon Hounnou. I am a data scientist with more than eight years of experience'
 featured_image: /images/about.jpg
 title: About me
 ---
